@@ -6,42 +6,41 @@
     max-width: 250px;
     margin: 20px auto;
     text-align: center;
-  }
+}
   
   .filter-list h1 {
     font-size: 2em;
     color: #333;
     margin-bottom: 20px;
-  }
+}
   
-  .filter-list .search-box {
+.filter-list .search-box {
     margin-bottom: 10px;
     width: 100%;
     padding: 5px;
     background-color: white;
-  }
+ }
   
-  .filter-list .dropdown {
+.filter-list .dropdown {
     margin-bottom: 30px;
     width: 100%;
-  }
+}
   
-  .filter-list .dropdown-toggle {
+.filter-list .dropdown-toggle {
     width: 100%;
     background-color: indianred;
     color: white;
     text-align: left;
-  }
+}
   
-  .filter-list .dropdown-menu {
+.filter-list .dropdown-menu {
     width: 100%;
-  }
+}
   
-  .filter-list .dropdown-item {
+.filter-list .dropdown-item {
     display: block;
     padding: 0.5rem 1rem;
     clear: both;
     white-space: nowrap;
-    border: 1px solid #ddd;
-  }
+}
   
